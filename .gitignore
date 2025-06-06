@@ -1,6 +1,7 @@
 log/
 obj/
 _site/
+desktop-src/desktop/
 .optemp/
 _themes*/
 _repo.*/

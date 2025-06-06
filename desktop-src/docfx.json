@@ -820,7 +820,10 @@
           "xinput/*": "graphics-gaming"
         }		 		 
     },
-    "template": [],
+    "template": [
+      "default",
+      "modern"
+    ],
     "dest": "desktop",
 
     "markdownEngineName": "markdig",
