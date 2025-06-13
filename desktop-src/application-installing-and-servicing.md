@@ -1,26 +1,26 @@
 ---
-description: Make use of available APIs and services provided by Windows to install, manage, and service your desktop apps.
+description: Windowsが提供する利用可能なAPIとサービスを活用して，デスクトップアプリのインストール，管理，および提供を行います．
 ms.assetid: 537ff8c3-8feb-4dd6-9af5-f476803a3cdb
-title: Application Installation and Servicing
+title: アプリケーションのインストールと提供
 ms.topic: reference
 ms.date: 08/09/2024
 ---
 
-# Application Installation and Servicing
+# アプリケーションのインストールと提供
 
-Use Windows APIs and services to install, manage, and service your desktop apps.
+Windows API とサービスを使用して，デスクトップアプリのインストールや管理，提供をします．
 
-## In this section
+## このセクションの概要
 
 
 
-| Topic | Description |
+| トピック | 説明 |
 | --- | --- |
-| [Isolated Applications and Side-by-side Assemblies](/windows/desktop/SbsCs/isolated-applications-and-side-by-side-assemblies-portal) | Isolated Applications and Side-by-Side Assemblies is a Microsoft Windows solution that reduces versioning conflicts in Windows client applications. |
-| [Packaging, deployment, and query of Windows apps](/windows/desktop/appxpkg/appx-portal) | Programmatically create Windows app packages (including UWP and desktop apps), and install, update, query, and uninstall apps. |
-| [Restart Manager](/windows/desktop/RstMgr/restart-manager-portal) | The Restart Manager API can eliminate or reduce the number of system restarts that are required to complete an installation or update. |
-| [Update Orchestrator](./updateorchestrator/index.md) | The Update Orchestrator API schedules your background software updates with user impact in mind. | 
-| [Windows Installer](/windows/desktop/Msi/windows-installer-portal) | Microsoft Windows Installer is an installation and configuration service provided with Windows. The installer service enables customers to provide better corporate deployment and provides a standard format for component management. The installer also enables the advertisement of applications and features according to the operating system. |
+| [分離アプリケーションとSide-by-Sideアセンブリ](/windows/desktop/SbsCs/isolated-applications-and-side-by-side-assemblies-portal) | 分離アプリケーションとSide-by-Sideアセンブリは，Windowsクライアントアプリケーションにおけるバージョン管理の競合を軽減するための Microsoft Windows ソリューションです． |
+| [Windowsアプリのパッケージング，デプロイ，クエリ](/windows/desktop/appxpkg/appx-portal) | Windowsアプリのパッケージ作成（UWPとデスクトップアプリを含みます），インストール，アップデート，クエリ，アンインストールをプログラマブルに行います．|
+| [再起動マネージャー](/windows/desktop/RstMgr/restart-manager-portal) | 再起動マネージャー API を使用すると，インストールおよび更新を完了するために再起動しなければならないシステム数を削減，またはなくすことができます． |
+| [アップデートオーケストレーター](./updateorchestrator/index.md) | アップデートオーケストレーター API は，ユーザーへの影響を考慮したバックグラウンドでのソフトウェア更新をスケジュールします．| 
+| [Windows Installer Windows インストーラー](/windows/desktop/Msi/windows-installer-portal) | Microsoft Windows インストーラーは，Windows とともに提供されるインストール＆構成サービスです．このインストーラーにより，顧客がより良い協調展開を可能にするとともに，コンポーネント管理の標準フォーマットを提供します．また，オペレーティングシステムに応じてアプリケーションと機能の広告も有効化します．|
 | [Windows Setup and Migration](/previous-versions/windows/desktop/wnf/windows-setup-and-migration-portal) | This section documents the notifications used to detect and possibly repair an application after a setup or migration has occurred. These notifications can also be used to suspend operations during the volatile setup or migration experience. |
 
 
